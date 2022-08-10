@@ -1,1 +1,1 @@
-# Internship-Linear-regression
+# Internship project 6
